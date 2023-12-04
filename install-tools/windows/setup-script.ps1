@@ -57,7 +57,8 @@ $utils_apps = @(
     # @{id = "9PB2MZ1ZMB1S"; name="iTunes"},
     @{id = "9P8LTPGCBZXD"; name="Wintoys"},
     @{id = "9NCBCSZSJRSB"; name="Spotify - Music and Podcasts"},
-    @{id = "9NLXL1B6J7LW"; name="Password Manager SafeInCloud"}
+    @{id = "9NLXL1B6J7LW"; name="Password Manager SafeInCloud"},
+    @{id = "9NC73MJWHSWW"; name="SyncFolder"}
 )
 
 $hardware_apps = @(
