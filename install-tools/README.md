@@ -20,4 +20,4 @@ Load configuration from backup.
 
 Adjust display scaling.
 
-![Alt text](NVIDIA_Control_Panel_scaling.png)
+![Nvidia Control Panel screenshot](NVIDIA_Control_Panel_scaling.png)
