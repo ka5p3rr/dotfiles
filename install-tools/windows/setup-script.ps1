@@ -53,7 +53,7 @@ $utils_apps = @(
     @{id = "QL-Win.QuickLook"; name="QuickLook"},
     @{id = "Microsoft.PowerToys"; name="PowerToys (Preview)"},
     @{id = "Google.GoogleDrive"; name="Google Drive"},
-    @{id = "9PKTQ5699M62"; name="iCloud"},
+    # @{id = "9PKTQ5699M62"; name="iCloud"},
     # @{id = "9PB2MZ1ZMB1S"; name="iTunes"},
     @{id = "9P8LTPGCBZXD"; name="Wintoys"},
     @{id = "9NCBCSZSJRSB"; name="Spotify - Music and Podcasts"},
