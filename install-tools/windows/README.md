@@ -12,12 +12,12 @@ Run the following command to invoke the script:
 Invoke-WebRequest https://raw.githubusercontent.com/ka5p3rr/pc-setup/main/install-tools/windows/setup-script.ps1 | Invoke-Expression
 ```
 
-## DisplayFusion
+## 🖥️ DisplayFusion
 
 Load configuration from backup.
 
-## NVIDIA Control Panel
+## 🕹️ NVIDIA Control Panel
 
-Adjust display scaling.
+By default dislpay scaling is done on the display side. In NVIDIA Control Panel set the following settings.
 
 ![Nvidia Control Panel screenshot](NVIDIA_Control_Panel_scaling.png)
