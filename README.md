@@ -32,6 +32,7 @@
 #### ⏬ Winget
 
 - <https://winget.run/> and <https://winstall.app/>
+- <https://github.com/marticliment/WingetUI>
 
 ## 📃 Software
 
