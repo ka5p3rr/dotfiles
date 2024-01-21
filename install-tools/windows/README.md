@@ -21,3 +21,19 @@ Load configuration from backup.
 By default dislpay scaling is done on the display side. In NVIDIA Control Panel set the following settings.
 
 ![Nvidia Control Panel screenshot](NVIDIA_Control_Panel_scaling.png)
+
+## Setup PowerShell
+
+[Starship](https://starship.rs/) should be installed as part of the installation script. Make sure a [Nerd Font](https://starship.rs/guide/#prerequisites) is installed (best through Chocolatey).
+
+Add the following line to `$PROFILE`:
+
+```powershell
+Invoke-Expression (&starship init powershell)
+```
+
+Enable preferred preset:
+
+```powershell
+starship preset pastel-powerline -o $HOME/.config/starship.toml
+```

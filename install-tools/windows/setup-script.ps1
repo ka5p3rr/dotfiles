@@ -54,6 +54,7 @@ $utils_apps = @(
     @{id = "Microsoft.PowerToys"; name="PowerToys (Preview)"},
     @{id = "Google.GoogleDrive"; name="Google Drive"},
     @{id = "SomePythonThings.WingetUIStore"; name="WingetUI"},
+    @{id = "Starship.Starship"; name="starship"},
     # @{id = "9PKTQ5699M62"; name="iCloud"},
     # @{id = "9PB2MZ1ZMB1S"; name="iTunes"},
     @{id = "9P8LTPGCBZXD"; name="Wintoys"},
