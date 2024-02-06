@@ -42,8 +42,8 @@ $gaming_apps = @(
     @{id = "GOG.Galaxy"; name="GOG GALAXY"},
     @{id = "EpicGames.EpicGamesLauncher"; name="Epic Games Launcher"},
     @{id = "ElectronicArts.EADesktop"; name="EA app"},
-    @{id = "Ubisoft.Connect"; name="Ubisoft Connect"},
-    @{id = "Playnite.Playnite"; name="Playnite"}
+    @{id = "Ubisoft.Connect"; name="Ubisoft Connect"}
+    # @{id = "Playnite.Playnite"; name="Playnite"}
 )
 
 $utils_apps = @(
