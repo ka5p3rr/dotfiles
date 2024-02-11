@@ -173,9 +173,9 @@ do {
             Install-Apps $dev_apps
             Install-Apps $web_browser_apps
             Install-Apps $communication_apps
+            Install-Apps $media_apps
             Install-Apps $hardware_apps
             Install-Apps $utils_apps
-            Install-Apps $media_apps
             break 
         }
         1 {
@@ -188,6 +188,7 @@ do {
             # Development
             Log "Installing development apps"
             # TODO: Add WSL support
+            # wsl -l |Where {$_.Replace("`0","") -match '^kali-linux'}
             Install-Apps $dev_apps
             break 
         }
