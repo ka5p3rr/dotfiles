@@ -9,9 +9,9 @@ $bloat_apps = @(
     @{id = "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe"; name="Microsoft 365 (Office)"},
     @{id = "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe"; name="Solitaire & Casual Games"},
     @{id = "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe"; name="Microsoft Sticky Notes"},
-    @{id = "Microsoft.MixedReality.Portal_8wekyb3d8bbwe"; name="Mixed Reality Portal"}
-    @{id = "Microsoft.Office.OneNote_8wekyb3d8bbwe"; name="OneNote for Windows 10"}
-    @{id = "Microsoft.OutlookForWindows_8wekyb3d8bbwe"; name="Outlook for Windows"}
+    @{id = "Microsoft.MixedReality.Portal_8wekyb3d8bbwe"; name="Mixed Reality Portal"},
+    @{id = "Microsoft.Office.OneNote_8wekyb3d8bbwe"; name="OneNote for Windows 10"},
+    # @{id = "Microsoft.OutlookForWindows_8wekyb3d8bbwe"; name="Outlook for Windows"},
     @{id = "Microsoft.People_8wekyb3d8bbwe"; name="Microsoft People"},
     @{id = "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe"; name="Power Automate"},
     @{id = "Microsoft.SkypeApp_kzf8qxf38zg5c"; name="Skype"},
