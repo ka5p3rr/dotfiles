@@ -21,7 +21,8 @@ $bloat_apps = @(
     @{id = "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe"; name = "Windows Sound Recorder" },
     @{id = "Microsoft.YourPhone_8wekyb3d8bbwe"; name = "Phone Link" },
     @{id = "Microsoft.ZuneVideo_8wekyb3d8bbwe"; name = "Films & TV" },
-    @{id = "MicrosoftTeams_8wekyb3d8bbwe"; name = "Microsoft Teams" }
+    @{id = "MicrosoftTeams_8wekyb3d8bbwe"; name = "Microsoft Teams" },
+    @{id = "9WZDNCRFHVQM"; name = "Mail and Calendar" }
 )
 
 $dev_apps = @(
@@ -48,7 +49,7 @@ $gaming_apps = @(
 
 $utils_apps = @(
     @{id = "NordSecurity.NordVPN"; name = "NordVPN" },
-    @{id = "Twilio.Authy"; name = "Authy Desktop" },
+    # @{id = "Twilio.Authy"; name = "Authy Desktop" },
     @{id = "xanderfrangos.twinkletray"; name = "Twinkle Tray" },
     @{id = "QL-Win.QuickLook"; name = "QuickLook" },
     @{id = "Microsoft.PowerToys"; name = "PowerToys (Preview)" },
