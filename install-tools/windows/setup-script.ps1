@@ -11,7 +11,7 @@ $bloat_apps = @(
     @{id = "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe"; name = "Microsoft Sticky Notes" },
     @{id = "Microsoft.MixedReality.Portal_8wekyb3d8bbwe"; name = "Mixed Reality Portal" },
     @{id = "Microsoft.Office.OneNote_8wekyb3d8bbwe"; name = "OneNote for Windows 10" },
-    # @{id = "Microsoft.OutlookForWindows_8wekyb3d8bbwe"; name="Outlook for Windows"},
+    @{id = "Microsoft.OutlookForWindows_8wekyb3d8bbwe"; name="Outlook for Windows"},
     @{id = "Microsoft.People_8wekyb3d8bbwe"; name = "Microsoft People" },
     @{id = "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe"; name = "Power Automate" },
     @{id = "Microsoft.SkypeApp_kzf8qxf38zg5c"; name = "Skype" },
@@ -62,7 +62,8 @@ $utils_apps = @(
     @{id = "9NCBCSZSJRSB"; name = "Spotify - Music and Podcasts" },
     @{id = "9NLXL1B6J7LW"; name = "Password Manager SafeInCloud" },
     @{id = "9NC73MJWHSWW"; name = "SyncFolder" },
-    @{id = "SoftDeluxe.FreeDownloadManager"; name = "Free Download Manager" }
+    @{id = "SoftDeluxe.FreeDownloadManager"; name = "Free Download Manager" },
+    @{id = "Notion.Notion"; name = "Notion" }
 )
 
 $hardware_apps = @(
